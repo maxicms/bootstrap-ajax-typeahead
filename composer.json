@@ -1,0 +1,35 @@
+{
+  "name": "maxicms/bs-typeahead",
+  "version": "0.0.7",
+  "description": "Twitter Bootstrap Ajax Typeahead Plugin",
+  "require": {
+    "components/jquery": ">= 1.9.0",
+    "twitter/bootstrap": ">= 4.0.0"
+  },
+  "authors": [
+    {
+      "name": "Twitter Inc.",
+      "homepage": "https://twitter.com/twitteross"
+    },
+    {
+      "name": "Paul Warelis",
+      "homepage": "https://github.com/pwarelis"
+    },
+    {
+      "name": "Alexey Gordeyev",
+      "homepage": "https://github.com/biggora"
+    },
+    {
+      "name": "Maxim Kostjukevich",
+      "homepage": "https://github.com/maxicms"
+    }
+  ],
+  "keywords": [
+    "typeahead",
+    "bootstrap",
+    "plugin",
+    "autocomplete",
+    "ajax"
+  ],
+  "license": "MIT"
+}

@@ -5,5 +5,5 @@
  * See Demo: http://plugins.upbootstrap.com/bootstrap-ajax-typeahead
  * Updated: <%- grunt.template.today("yyyy-mm-dd hh:M:ss") %>
  *
- * Modifications by Paul Warelis and Alexey Gordeyev
+ * Modifications by Paul Warelis and Alexey Gordeyev and Maxim Kostjukevich
  */
